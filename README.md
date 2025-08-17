@@ -25,6 +25,6 @@ A responsive web application to manage your machines and export selected entries
 
 You can try the app directly in your browser (no installation required):
 
-[Open Demo](https://your-username.github.io/machine-dashboard-yaml-export/)  
+[Open Demo](https://abijithka02.github.io/machine-dashboard-yaml-export/)  
 
 
